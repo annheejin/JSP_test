@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.input {font-size:11px;font=family:aial}
+
+font.c{font-size:12px; color:#000000; font-family:arial}
+.unnamed1{font-size:16px; color:#dd4800; text-decoration:blink}
+.unnamed2{font-size:18px; color:#dd4800; text-decoration:blink}
+
+body{
+	color:black; font-size:10pt; line-height:140% image-deoration:none }
+	th{ color:black; font-size:10pt; line-height:140% image-deoration:none 	}
+	tr{ color:black; font-size:10pt; line-height:140% image-deoration:none	}
+	td{ color:black; font-size:10pt; line-height:140% image-deoration:none	}
+	
+	a:visited{ border-bottom-width:0px; border-left-width:0px; border-right-width:0px; border-top-width:0px; text-decoration:none; image-decoreation:none;	}
+	a:hover{ border-bottom-width:0px; border-left-width:0px; border-right-width:0px; border-top-width:0px; color:red; text-decoration:none; image-decoreation:none; }
+	a;link{ border-bottom-width:0px; border-left-width:0px; border-right-width:0px; border-top-width:0px; text-decoration:none; image-decoreation:none;	}
+	
+}//body End 
